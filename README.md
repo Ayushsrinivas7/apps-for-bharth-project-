@@ -1,6 +1,7 @@
 # 🛕 DivyaDarshan
 
 ![Screenshot](https://github.com/user-attachments/assets/5073ec4a-18f1-4264-9e27-7d7e6918b9e0)
+![image](https://github.com/user-attachments/assets/d85bfb8f-2173-492f-8109-1a217585f746)
 
 ## ✨ About the Project
 
